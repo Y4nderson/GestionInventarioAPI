@@ -3,7 +3,7 @@
     public class Usuario
     {
         public int proceso { get; set; }
-        public int id {  get; set; }
+     
         public int usuarioID { get; set; }
         public string nombreUsuario { get; set; }
         public string contrasenaHash { get; set; }
